@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alx-codes/react-covid19-trackr.git/static/css/main.b9ae0ad9.chunk.css",
+    "main.js": "/alx-codes/react-covid19-trackr.git/static/js/main.d0bf4ff7.chunk.js",
+    "main.js.map": "/alx-codes/react-covid19-trackr.git/static/js/main.d0bf4ff7.chunk.js.map",
+    "runtime-main.js": "/alx-codes/react-covid19-trackr.git/static/js/runtime-main.67843a71.js",
+    "runtime-main.js.map": "/alx-codes/react-covid19-trackr.git/static/js/runtime-main.67843a71.js.map",
+    "static/js/2.c62ae718.chunk.js": "/alx-codes/react-covid19-trackr.git/static/js/2.c62ae718.chunk.js",
+    "static/js/2.c62ae718.chunk.js.map": "/alx-codes/react-covid19-trackr.git/static/js/2.c62ae718.chunk.js.map",
+    "index.html": "/alx-codes/react-covid19-trackr.git/index.html",
+    "precache-manifest.c143aec7c5bf6c91f83aa1bf4abafb27.js": "/alx-codes/react-covid19-trackr.git/precache-manifest.c143aec7c5bf6c91f83aa1bf4abafb27.js",
+    "service-worker.js": "/alx-codes/react-covid19-trackr.git/service-worker.js",
+    "static/css/main.b9ae0ad9.chunk.css.map": "/alx-codes/react-covid19-trackr.git/static/css/main.b9ae0ad9.chunk.css.map",
+    "static/js/2.c62ae718.chunk.js.LICENSE.txt": "/alx-codes/react-covid19-trackr.git/static/js/2.c62ae718.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67843a71.js",
+    "static/js/2.c62ae718.chunk.js",
+    "static/css/main.b9ae0ad9.chunk.css",
+    "static/js/main.d0bf4ff7.chunk.js"
+  ]
+}
